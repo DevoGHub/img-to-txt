@@ -2,7 +2,7 @@ const density = "Ñ@#W$9876543210?!abc;:+=-,._ ";
 let img;
 
 function preload(){
-    img = loadImage('roshni.jpg');
+    img = loadImage('vigas.jpg');
 }
 
 function setup(){
